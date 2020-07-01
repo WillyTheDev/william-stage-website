@@ -1,6 +1,6 @@
-# exploracode
+# William Cherche un Stage
 
-Site de formations, échanges & entraide sur le développement.
+Site Pour la recherche d'un stage en développement.
 
 ## Getting Started
 
